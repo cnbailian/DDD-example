@@ -1,1 +1,1 @@
-# DDD-example
+Cargo shipping domain from Eric Evans book.
